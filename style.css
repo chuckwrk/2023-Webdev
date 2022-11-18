@@ -1,0 +1,27 @@
+/*Selector{
+	Property: value;
+}*/
+
+body{
+	background-image: url(https://external-preview.redd.it/3S0LRVt2fWDyjk7sJewasBDNXdab_ZF6p2ymUXKgKVA.png?auto=webp&s=63a2fe83ea820bc0dfbf29b8613fd8d5ca6c84bf);
+	background-size: cover;
+}
+h2 + p {
+	color: black;
+	text-align: center;
+	border: 5px solid purple;
+	cursor: pointer;
+}
+
+p {
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: 160%;
+	font-family: 'Sono', sans-serif;
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
